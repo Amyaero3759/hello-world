@@ -1,4 +1,4 @@
 # hello-world
 Hi folks!
 
-Amyaero here. Ilike C and C++.
+Amyaero here. I like C and C++.
