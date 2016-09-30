@@ -1,2 +1,4 @@
 # hello-world
-idea discussion
+Hi folks!
+
+Amyaero here. Ilike C and C++.
